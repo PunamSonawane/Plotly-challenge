@@ -34,8 +34,7 @@ I used plotly and javascripts methods and functions to do my analysis for Visual
 
 For this project, I used Javascript  to render and display the results of this analysis. You can view the file here:
 
-<https://github.com/PunamSonawane/matplotlib-challenge/blob/master/Pymaceuticals/pymaceuticals_starter.ipynb>
-
+<https://github.com/PunamSonawane/Plotly-challenge/blob/master/static/js/app.js>
 
 ##  <a name="technologies"></a>Technologies Used
 
